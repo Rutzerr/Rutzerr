@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm an automotive student at the Technical University of Eindhoven.
+In my free time I like to make games.
 
 <!--
 **Rutzerr/Rutzerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
